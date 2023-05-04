@@ -1,7 +1,7 @@
 # Black-Hat-Python
 my implementation of Black hat python projects with my comments 
 
-                                                                Disclaimer
+                                                           Disclaimer
 The contents of this repository are provided solely for educational purposes. 
 Any download or use of the materials in this repository is done at your own risk. 
 The projects included, are intended to demonstrate cybersecurity concepts and should not be used for any malicious or illegal activities. 
